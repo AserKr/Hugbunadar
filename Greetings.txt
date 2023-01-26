@@ -2,4 +2,4 @@ Hello World
 
 Halló heimur
 
-Hola Mundo
+HOLA MUNDO
