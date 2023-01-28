@@ -1,4 +1,4 @@
-GUTEN MORGEN!
+HELLO WORLD!
 
 Halló heimur?
 
